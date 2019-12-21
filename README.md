@@ -1,4 +1,9 @@
 # Google-Sheet
-`jin`
+`Petit texte`
 # Hello
 Node (npm) and Google Sheet
+
+dependencies :
+
+express
+nodemon (dev)

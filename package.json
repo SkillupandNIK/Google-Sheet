@@ -1,0 +1,22 @@
+{
+  "name": "google-sheet",
+  "version": "1.0.0",
+  "description": "linking google sheet with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkillupandNIK/Google-Sheet.git"
+  },
+  "author": "Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkillupandNIK/Google-Sheet/issues"
+  },
+  "homepage": "https://github.com/SkillupandNIK/Google-Sheet#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
